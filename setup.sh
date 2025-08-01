@@ -20,3 +20,5 @@ curl -s https://raw.githubusercontent.com/chubbyhippo/clion-settings/refs/heads/
 
 # rustrover
 curl -s https://raw.githubusercontent.com/chubbyhippo/rustrover-settings/refs/heads/main/setup.sh | /usr/bin/env sh
+
+# webstorm
