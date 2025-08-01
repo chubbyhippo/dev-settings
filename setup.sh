@@ -22,3 +22,4 @@ curl -s https://raw.githubusercontent.com/chubbyhippo/clion-settings/refs/heads/
 curl -s https://raw.githubusercontent.com/chubbyhippo/rustrover-settings/refs/heads/main/setup.sh | /usr/bin/env sh
 
 # webstorm
+curl -s https://raw.githubusercontent.com/chubbyhippo/webstorm-settings/refs/heads/main/setup.sh | /usr/bin/env sh
