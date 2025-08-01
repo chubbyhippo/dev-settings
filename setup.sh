@@ -19,3 +19,4 @@ curl -s https://raw.githubusercontent.com/chubbyhippo/pycharm-settings/refs/head
 curl -s https://raw.githubusercontent.com/chubbyhippo/clion-settings/refs/heads/main/setup.sh | /usr/bin/env sh
 
 # rustrover
+curl -s https://raw.githubusercontent.com/chubbyhippo/rustrover-settings/refs/heads/main/setup.sh | /usr/bin/env sh
