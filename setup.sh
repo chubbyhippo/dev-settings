@@ -16,3 +16,4 @@ curl https://raw.githubusercontent.com/chubbyhippo/vscode-settings/refs/heads/ma
 curl -s https://raw.githubusercontent.com/chubbyhippo/pycharm-settings/refs/heads/main/setup.sh | /usr/bin/env sh
 
 # clion
+curl -s https://raw.githubusercontent.com/chubbyhippo/clion-settings/refs/heads/main/setup.sh | /usr/bin/env sh
