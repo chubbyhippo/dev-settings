@@ -13,3 +13,4 @@ curl -s https://raw.githubusercontent.com/chubbyhippo/intellij-settings/refs/hea
 curl https://raw.githubusercontent.com/chubbyhippo/vscode-settings/refs/heads/main/install.sh | /usr/bin/env sh
 
 # pycharm
+curl -s https://raw.githubusercontent.com/chubbyhippo/pycharm-settings/refs/heads/main/setup.sh | /usr/bin/env sh
