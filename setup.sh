@@ -10,3 +10,4 @@ curl https://raw.githubusercontent.com/chubbyhippo/.vimrc/refs/heads/master/.vim
 curl -s https://raw.githubusercontent.com/chubbyhippo/intellij-settings/refs/heads/main/setup-ij.sh | /usr/bin/env sh
 
 # vscode
+curl https://raw.githubusercontent.com/chubbyhippo/vscode-settings/refs/heads/main/install.sh | /usr/bin/env sh
