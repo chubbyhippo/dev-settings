@@ -8,3 +8,5 @@ curl https://raw.githubusercontent.com/chubbyhippo/.vimrc/refs/heads/master/.vim
 
 # intellij
 curl -s https://raw.githubusercontent.com/chubbyhippo/intellij-settings/refs/heads/main/setup-ij.sh | /usr/bin/env sh
+
+# vscode
