@@ -7,7 +7,7 @@ curl https://raw.githubusercontent.com/chubbyhippo/.vimrc/refs/heads/master/.vim
 curl https://raw.githubusercontent.com/chubbyhippo/.emacs/refs/heads/main/.emacs -o ~/.emacs
 
 # neovim
-[ -d "${XDG_CONFIG_HOME:-$HOME/.config}/nvim" ] && rm -rf "${XDG_CONFIG_HOME:-$HOME/.config}/nvim"; mkdir -p "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim && curl https://raw.githubusercontent.com/chubbyhippo/init.lua/main/init.lua -o "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim/init.lua
+curl https://raw.githubusercontent.com/chubbyhippo/lazyvim-settings/refs/heads/main/setup.sh | /usr/bin/env sh
 
 # intellij
 curl -s https://raw.githubusercontent.com/chubbyhippo/intellij-settings/refs/heads/main/setup-ij.sh | /usr/bin/env sh
