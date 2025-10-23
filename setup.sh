@@ -3,9 +3,6 @@
 # vim
 curl https://raw.githubusercontent.com/chubbyhippo/.vimrc/refs/heads/master/.vimrc -o ~/.vimrc
 
-# emacs
-curl https://raw.githubusercontent.com/chubbyhippo/.emacs/refs/heads/main/.emacs -o ~/.emacs
-
 # neovim
 curl https://raw.githubusercontent.com/chubbyhippo/lazyvim-settings/refs/heads/main/setup.sh | /usr/bin/env sh
 
